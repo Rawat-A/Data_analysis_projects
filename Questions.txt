@@ -1,0 +1,8 @@
+Q1 . Compare sales and order 
+Q2. Which month got highest sales and order
+Q3. who purchased more? Men or women
+Q4. Order status
+Q5. top cntributing states in sale?
+Q6. what is relation between age and gender based on number of orders 
+Q7. Which channel contributing max sale?
+Q8. Highest sellingg category?
